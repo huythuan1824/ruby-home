@@ -1,0 +1,2 @@
+module BantinHelper
+end
